@@ -5,3 +5,6 @@
 - 🔭 I’m currently working on a side project.
 - 🌱 I’m currently learning ethical hacking.
 - ⚡ Fun fact: I have 2 fish.
+<!-- Markdown -->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
