@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sxaizaga)](https://github.com/sxaizaga/github-profile-trophy)
+
 <!--
 **sxaizaga/sxaizaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sxaizaga)](https://github.com/sxaizaga/github-profile-trophy)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
